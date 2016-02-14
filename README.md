@@ -34,3 +34,9 @@ With `cnn` (**recommended**):
 
 With `yo`:
 - `$ yo cnn-cli`
+
+
+![node](https://img.shields.io/node/v/generator-cnn-cli.svg?style=flat-square)
+[![npm](https://img.shields.io/npm/v/generator-cnn-cli.svg?style=flat-square)](https://www.npmjs.com/package/generator-cnn-cli)
+[![npm-downloads](https://img.shields.io/npm/dm/generator-cnn-cli.svg?style=flat-square)](https://www.npmjs.com/package/generator-cnn-cli)
+[![dependency-status](https://gemnasium.com/cnnlabs/generator-cnn-cli.svg)](https://gemnasium.com/cnnlabs/generator-cnn-cli)
