@@ -1,6 +1,6 @@
 {
   "name": "generator-cnn-cli",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "CNN CLI Package Generator",
   "main": "generators/app/index.js",
   "directories": {
