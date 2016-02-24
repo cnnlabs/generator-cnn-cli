@@ -42,6 +42,11 @@ function validateFilename(input) {
 
 
 module.exports = generators.Base.extend({
+    initializing: {
+        base: function () {
+            this.composeWith('cnn-base:app');
+        }
+    },
     prompting: {
         prompt: function () {
             let done = this.async();
